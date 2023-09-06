@@ -6,7 +6,7 @@ This python package is prepared by Johnny Panasy
 
 Install
 
-`pip install git+ssh://git@github.com/git@github.com:jkp100/preprocess_jkp100.git`
+`pip install git+ssh://git@github.com/jkp100/preprocess_jkp100.git`
 
 Uninstall
 
